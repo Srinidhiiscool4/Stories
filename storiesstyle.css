@@ -1,0 +1,55 @@
+body {
+    background-color: white;
+    margin: 0 10%;
+    
+} 
+
+h1{
+color: black; 
+text-align:center;
+}
+
+h6{
+color: black; 
+text-align:center;
+border-bottom: 1px solid red;
+}
+
+p{
+font-size:large;
+font-family: sans-serif;
+margin-left: 100px;
+}
+
+h2{
+color:black;
+margin-left: 100px; 
+}
+
+/* Style the side navigation */
+.sidenav {
+height: 100%;
+width: 200px;
+position: fixed;
+z-index: 1;
+top: 0;
+left: 0;
+background-color:black;
+overflow-x: hidden;
+}
+  
+  
+/* Side navigation links */
+.sidenav a {
+color: white;
+padding: 16px;
+text-decoration: none;
+display: block;
+text-align: left;
+border: 1px solid red;
+  }
+
+img{
+float: right; 
+margin: 0 12px; 
+}
